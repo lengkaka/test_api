@@ -1,0 +1,9 @@
+E:\baiduCloud\百度云同步盘\projects\Test_api\Test_Api\Test_Api\bin\Test_Api.dll
+E:\baiduCloud\百度云同步盘\projects\Test_api\Test_Api\Test_Api\bin\Test_Api.pdb
+E:\baiduCloud\百度云同步盘\projects\Test_api\Test_Api\Test_Api\bin\Nancy.dll
+E:\baiduCloud\百度云同步盘\projects\Test_api\Test_Api\Test_Api\bin\Nancy.xml
+E:\baiduCloud\百度云同步盘\projects\Test_api\Test_Api\Test_Api\obj\Debug\Test_Api.csprojResolveAssemblyReference.cache
+E:\baiduCloud\百度云同步盘\projects\Test_api\Test_Api\Test_Api\obj\Debug\Test_Api.dll
+E:\baiduCloud\百度云同步盘\projects\Test_api\Test_Api\Test_Api\obj\Debug\Test_Api.pdb
+E:\baiduCloud\百度云同步盘\projects\Test_api\Test_Api\Test_Api\bin\Nancy.Hosting.Aspnet.dll
+E:\baiduCloud\百度云同步盘\projects\Test_api\Test_Api\Test_Api\bin\Nancy.Hosting.Aspnet.xml
